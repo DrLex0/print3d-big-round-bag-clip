@@ -17,7 +17,13 @@ This is a remix of MasterFX' Bag Clip - PLA compatible ([Thingiverse thing:33015
 This is a print-in-place clip for sealing large bags like garbage bags, or any other large bag whose odor/humidity/dryness is best kept inside. The usual flat clips that bend around the bag may become difficult to use for large or thick bags, therefore this one is round and rigid, and relies on the flexibility of the bag itself.<br>
 It can also be useful to hold cables or hoses together, or for any other application where a round clip comes in handy. Although the clip is easy to open and close, it can withstand quite a bit of force. An extra loop of tape can help to keep the clip secure.
 
-It comes in 24 mm, 28 mm, 32 mm, and 38 mm inner diameters (outer diameters are 33, 37.5, 42, and 49 mm respectively). If you need diameters in between these values or slightly above 38 mm, simply scale up the nearest smaller model in the XY plane by the appropriate factor (e.g. for 34 mm, scale up the 32 mm model by 34/32 or 106.25%). You may also be able to scale down from a larger model to a limited degree, depending on how accurate your printer is.
+It comes in several inner diameters:
+- 24 mm (outer 33 mm),
+- 28 mm (outer 37.5 mm),
+- 32 mm (outer 42 mm),
+- 38 mm (outer 49 mm).
+
+If you need diameters in between these values or slightly above 38 mm, simply scale up the nearest smaller model in the XY plane by the appropriate factor (e.g. for 34 mm, scale up the 32 mm model by 34/32 or 106.25%). You may also be able to scale down from a larger model to a limited degree, depending on how accurate your printer is.
 
 
 ### Printing
